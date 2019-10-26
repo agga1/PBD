@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Northwind@dbadmin.iisg.agh.edu.pl" uuid="392d4c04-d6f4-4c9c-8b89-b14f0dba5c36">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dbadmin.iisg.agh.edu.pl:1433;database=Northwind</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Library@dbadmin.iisg.agh.edu.pl" uuid="ab761c38-6d14-4fba-a0d6-39a7fa5038ee">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dbadmin.iisg.agh.edu.pl:1433;database=Library</jdbc-url>
+    </data-source>
+  </component>
+</project>
