@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/lab2.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/groupby.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/groupbyHomework.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/joinUnionLib.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/joins.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/joinsCd.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/joinsHomework.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/kolSQL.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/kolSQLLibrary.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries2.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/trivialQueries2.sql" dialect="TSQL" />
   </component>
 </project>

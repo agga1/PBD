@@ -13,5 +13,11 @@
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://dbadmin.iisg.agh.edu.pl:1433;database=Library</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="joindb@dbadmin.iisg.agh.edu.pl" uuid="83aa1825-f203-4bf4-a063-cd99381610b5">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://dbadmin.iisg.agh.edu.pl;database=joindb</jdbc-url>
+    </data-source>
   </component>
 </project>
